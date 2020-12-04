@@ -1,1 +1,1 @@
-# bq_using_sql_proj
+# Answering Business Questions for a Music Sales Company with SQL
